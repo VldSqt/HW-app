@@ -1,0 +1,3 @@
+com\os\hardwaremonitor\integration\HardwareMonitorIntegrationTest.class
+com\os\hardwaremonitor\integration\TestSensorsLinux.class
+com\os\hardwaremonitor\unit\HardwareMonitorTest.class
